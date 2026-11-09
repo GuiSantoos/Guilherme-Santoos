@@ -1,4 +1,4 @@
-# Olá! Eu sou Gui Santos
+# Olá! Eu sou Guilherme Santos
 
 Atualmente em estudando Analise e Desenvolvimento de Sistemas e faço cursos pela HastagTreinamentos para me aprimorar 
 
